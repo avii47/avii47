@@ -37,4 +37,4 @@
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=avii47&theme=radical" alt="avii47" /></p>
 
 <h3 align="left">For Support:</h3>
-<p><a href="https://www.buymeacoffee.com/@47_avii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="350" alt="@47_avii" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/@47_avii"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="100" width="300" alt="@47_avii" /></a></p><br><br>
